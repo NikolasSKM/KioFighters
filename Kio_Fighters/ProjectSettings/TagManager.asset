@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4273344311
+    locked: 0
+  - name: Montanhas
+    uniqueID: 1397561333
+    locked: 0
+  - name: Pinheiros
+    uniqueID: 1875422857
+    locked: 0
+  - name: Chao
+    uniqueID: 4243293775
+    locked: 0
+  - name: Casas
+    uniqueID: 427794987
+    locked: 0
+  - name: Plataforma
+    uniqueID: 1140424083
+    locked: 0
+  - name: Heroi
+    uniqueID: 746079405
+    locked: 0
